@@ -1,0 +1,14 @@
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\bin\Debug\net8.0\LeetCode1SumOfASquears.exe
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\bin\Debug\net8.0\LeetCode1SumOfASquears.deps.json
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\bin\Debug\net8.0\LeetCode1SumOfASquears.runtimeconfig.json
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\bin\Debug\net8.0\LeetCode1SumOfASquears.dll
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\bin\Debug\net8.0\LeetCode1SumOfASquears.pdb
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.AssemblyInfoInputs.cache
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.AssemblyInfo.cs
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.csproj.CoreCompileInputs.cache
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.dll
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\refint\LeetCode1SumOfASquears.dll
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.pdb
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.genruntimeconfig.cache
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\ref\LeetCode1SumOfASquears.dll

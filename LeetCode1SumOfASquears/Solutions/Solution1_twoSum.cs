@@ -1,4 +1,9 @@
-public class Solution
+namespace solutions;
+
+/// <summary>
+/// Problem 1
+/// </summary>
+public class Prob1
 {
     public int[] twoSum(int[] nums, int target)
     {

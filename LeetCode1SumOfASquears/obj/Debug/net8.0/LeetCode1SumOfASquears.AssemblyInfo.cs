@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode1SumOfASquears")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+665bf6ba1506fa40bded436cc876e7b1c399499a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e9b875e1e2cd4f6ed5787292ad8c4386e4aae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode1SumOfASquears")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode1SumOfASquears")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

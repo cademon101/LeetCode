@@ -12,3 +12,4 @@ c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\r
 c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.pdb
 c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.genruntimeconfig.cache
 c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\ref\LeetCode1SumOfASquears.dll
+c:\Users\Cademon\source\repos\LeetCode\LeetCode1SumOfASquears\obj\Debug\net8.0\LeetCode1SumOfASquears.sourcelink.json
